@@ -1,4 +1,4 @@
-# microbit-python-driver
+# microbit-python-
 
 A clean, user-space **Python driver layer** for communicating with a **BBC micro:bit** over **USB serial**.
 
